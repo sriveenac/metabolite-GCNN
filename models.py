@@ -1,4 +1,4 @@
-from . import graph
+import graph
 
 import tensorflow as tf
 import sklearn
