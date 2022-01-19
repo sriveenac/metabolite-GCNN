@@ -27,3 +27,6 @@ to metabolomics research and it could aid cancer diagnosis efforts by utilizing 
 metabolomic data.
 
 Link to Paper: https://drive.google.com/file/d/14Ej4bw5rP2aD3xKIlGRZRMsQVJpfuMIO/view?usp=sharing
+
+## Disclaimer: The code for the GCN was inspired by  Michael Defferrard, Xavier Bresson, and Pierre Van dergheynst's paper titled: "Convolutional neural networks on graphs with fast localized spectral filtering." published in Advances in Neural Information Processing Systems, 2016.
+## The Datatset comes from Yachida et al. (paper title: Metagenomic and metabolomic analyses reveal distinct stage-specific phenotypes of the gut microbiota in colorectal cancer.
