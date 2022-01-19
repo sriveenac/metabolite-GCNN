@@ -1,10 +1,10 @@
 # metabolite-GCNN
-ECE271B Final Project
+## ECE271B Final Project
 
-Leveraging metabolite connectivity for Cancer diagnosis using Graph
+# Leveraging metabolite connectivity for Cancer diagnosis using Graph
 Convolutional Neural Networks
 
-Abstract From Paper
+## Abstract From Paper
 Metabolic reprogramming is a hallmark of cancer, and
 metabolomics offers insight into the pathophysiology of the
 disease, allowing us to leverage metabolic data for classification of cancer patients. Through formulating the Cancer
